@@ -1,0 +1,8 @@
+Wait for xp modifier to reach end before clicking to camp or home,
+XP visuals may go off past 100%
+Times where strength bonuses may randomly just be ignored unintentionally,
+Tutorial Level exit icon may take you to camp despite not completing the level yet.
+Skills can be put on as many times (no code added for prevention)
+If you cannot progress to the next level 1-4 try battling again the level.
+There is no level 5 coded.
+Skill 4 doesn't unlock upon first level up.
