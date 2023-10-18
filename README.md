@@ -14,6 +14,11 @@ pip install pygame
 ## Graphics Notice
 > I did not design any graphics or assets for this game all graphics were found on google images, and soundboard websites.
 
+#What I could have done better?
+> Written more object orientated code to reuse rather than writing tons of lines
+> Clean up the code
+> Create custom functions that will simplify more of the application's tasks
+
 ## Bugs
 ```
 XP modifier needs to reach the end of its levelling up cycle in order to save stats
